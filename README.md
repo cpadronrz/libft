@@ -1,4 +1,4 @@
-# LIBFT
+# Libft
 
 ## 📌 Description
 
@@ -97,4 +97,7 @@ cc -Wall -Wextra -Werror main.c libft.a -o prog
 
 ---
 
+## 📚 References
 
+This library was built following the libft subject of 42 School. 
+The code follows the Norm coding standard used at 42.
